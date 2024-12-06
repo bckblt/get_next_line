@@ -6,12 +6,12 @@
 /*   By: bakarabu <bakarabu@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/12/07 01:39:53 by bakarabu          #+#    #+#             */
-/*   Updated: 2024/12/07 01:39:57 by bakarabu         ###   ########.fr       */
+/*   Updated: 2024/12/07 02:57:24 by bakarabu         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#ifndef GET_NEXT_LINE_H
-# define GET_NEXT_LINE_H
+#ifndef GET_NEXT_LINE_BONUS_H
+# define GET_NEXT_LINE_BONUS_H
 
 # include <unistd.h>
 # include <stdlib.h>
